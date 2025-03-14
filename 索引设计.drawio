@@ -4,27 +4,6 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="CUUbgYaL5cTZ6HXjsOBF-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="680" width="425" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="CUUbgYaL5cTZ6HXjsOBF-22" value="RTable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="680" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CUUbgYaL5cTZ6HXjsOBF-23" value="TableSchema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="720" width="365" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CUUbgYaL5cTZ6HXjsOBF-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="790" width="255" height="187.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CUUbgYaL5cTZ6HXjsOBF-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="790" width="90" height="187.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CUUbgYaL5cTZ6HXjsOBF-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="815" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="CUUbgYaL5cTZ6HXjsOBF-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="115" y="890" width="60" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="CUUbgYaL5cTZ6HXjsOBF-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="260" width="425" height="330" as="geometry" />
         </mxCell>
